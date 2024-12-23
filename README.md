@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Alafi Dumo, undergraduate at Northwestern University<br>studying Computer Engineering, passionate<br>about exploring the realms of coding and mathematical problem-solving.
+👋 Hello, I'm Alafi, undergraduate at Northwestern University<br>studying Computer Engineering, passionate<br>about exploring the realms of coding and mathematical problem-solving.
 
 
 ## 🌐 Socials:
