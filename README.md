@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Alafi, an undergraduate student at Northwestern University<br>studying Computer Engineering, passionate<br>about exploring the realms of coding and mathematical problem-solving.
-
+👋 Hello, I'm Alafi, an undergraduate at Northwestern University
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alafi-d-34b00a270/)
